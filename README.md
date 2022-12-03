@@ -60,5 +60,5 @@ Enter PW when promted
 ## Video Link
 [Video](https://drive.google.com/file/d/1w9ccSI0B0K5BR4m9AJCnGsnILFhdc5JH/view)
 
-##GitHub
+## GitHub
 [GitHub](https://github.com/mncole98/e-shop)
