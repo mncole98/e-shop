@@ -3,7 +3,7 @@
 ## Description
 A mysql database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.
 
-🎬 Below is a gif showing the functionality of the project.
+🎬 Below is a gif showing the functionality of the project.<br/>
 [Project Demo](assets/e-shop gif.gif)
 
 ## User Story
